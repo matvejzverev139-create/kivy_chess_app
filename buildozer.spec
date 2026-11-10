@@ -14,3 +14,6 @@ android.minapi = 21
 android.sdk = 30
 android.ndk = 25b
 android.accept_sdk_license = True
+# Ускоряем сборку и убираем лишнее логгирование
+log_level = 2
+warn_on_root = 1
